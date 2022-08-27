@@ -1,5 +1,5 @@
 # bootWhatsapp
-Estou Iniciando no python então resolvir fazer esse Boot de whatsapp usando a biblioteca <strong>pandas e PyWhatKit</strong>
+Estou Iniciando em python então resolvir fazer esse Boot de whatsapp usando a biblioteca <strong>pandas e PyWhatKit</strong>
 
 
 
